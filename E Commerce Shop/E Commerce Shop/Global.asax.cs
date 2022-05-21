@@ -13,6 +13,7 @@ namespace ASP_MVC_E_Commerce_Final_Project
         protected void Application_Start()
         {
             // master branch infection
+            //Master
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
