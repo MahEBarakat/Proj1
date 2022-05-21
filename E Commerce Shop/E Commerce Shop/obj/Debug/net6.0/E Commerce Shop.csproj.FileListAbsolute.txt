@@ -1,0 +1,8 @@
+C:\VisualStudio Projects\E Commerce Shop\E Commerce Shop\obj\Debug\net6.0\E Commerce Shop.csproj.AssemblyReference.cache
+C:\VisualStudio Projects\E Commerce Shop\E Commerce Shop\obj\Debug\net6.0\E Commerce Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\E Commerce Shop\E Commerce Shop\obj\Debug\net6.0\E Commerce Shop.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\E Commerce Shop\E Commerce Shop\obj\Debug\net6.0\E Commerce Shop.AssemblyInfo.cs
+C:\VisualStudio Projects\E Commerce Shop\E Commerce Shop\obj\Debug\net6.0\E Commerce Shop.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\E Commerce Shop\E Commerce Shop\obj\Debug\net6.0\E Commerce Shop.MvcApplicationPartsAssemblyInfo.cache
+C:\VisualStudio Projects\E Commerce Shop\E Commerce Shop\obj\Debug\net6.0\E Commerce Shop.RazorAssemblyInfo.cache
+C:\VisualStudio Projects\E Commerce Shop\E Commerce Shop\obj\Debug\net6.0\E Commerce Shop.RazorAssemblyInfo.cs
